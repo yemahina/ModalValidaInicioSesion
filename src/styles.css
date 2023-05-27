@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1.titulo {
+  color: #900c3f;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.buttonInicioSesion {
+  background-color: #900c3f;
+  color: #f0f1dc;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+/*.modal {
+ 
+  text-align: center;
+}*/
+/*.Modal {
+  text-align: center;
+  margin: auto;
+}*/
+.tituloModal {
+  color: #d31d63;
+  text-align: center;
+}
+.usuario {
+  color: #d31d63;
+}
+.contraseña {
+  color: #d31d63;
+  text-align: center;
+}
+.botonInicioSesionModal {
+  color: #f0f1dc;
+  background-color: #d31d63;
+  border-radius: 12px;
+  text-align: center;
+}
